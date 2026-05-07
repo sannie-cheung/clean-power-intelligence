@@ -1,0 +1,9 @@
+Entity_ID,Entity_Name,Entity_Type,Segment,Client_Status,Country,Region,Primary_Contact,Notes
+E001,GreenPeak Renewables,Project Developer,Clean Power Developer,Client,Singapore,Asia Pacific,James Tan,Solar and wind asset developer; active project pipeline in APAC
+E002,SunGrid Utilities,Utility / Offtaker,Utility & Grid,Client,Australia,Asia Pacific,Sarah Lim,State-linked utility; long-term PPA counterparty for solar offtake
+E003,EverGreen Capital,Infrastructure Fund,Investor / Fund,Client,Hong Kong,Asia Pacific,Michael Ng,Equity investor in clean energy assets; holds stake in GreenPeak Renewables
+E004,CleanFuture Fund,Infrastructure Fund,Investor / Fund,Prospect,Singapore,Asia Pacific,David Chan,Co-investment fund focused on APAC renewables; linked to EverGreen Capital
+E005,BlueHorizon Wind,Project Developer,Clean Power Developer,Prospect,Japan,Asia Pacific,Yuki Tanaka,Offshore wind developer; pre-construction stage assets in Japan
+E006,SolarBridge EPC,EPC Contractor,O&M & Services,Client,India,South Asia,Priya Mehta,Engineering and construction contractor for utility-scale solar
+E007,GridLink Transmission,Grid Operator,Utility & Grid,Prospect,Philippines,Southeast Asia,Ramon Cruz,Transmission operator; key grid connection counterparty for island projects
+E008,NovaSpark Battery,Energy Storage,Technology & Storage,Prospect,South Korea,Asia Pacific,Jin-Ho Park,Battery storage OEM; co-located storage solutions for solar+storage projects

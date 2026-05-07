@@ -1,0 +1,9 @@
+Segment_ID,Segment_Name,Description,Banking_Solutions,Example_Entities
+S1,Clean Power Developer,Companies developing and owning renewable energy generation assets,"Project Finance, Green Loans, Construction Finance, Interest Rate Hedging","GreenPeak Renewables, BlueHorizon Wind"
+S2,Utility & Grid,Utilities and grid operators acting as offtakers or infrastructure owners,"Corporate Lending, Revolving Credit Facilities, Infrastructure Finance","SunGrid Utilities, GridLink Transmission"
+S3,Investor / Fund,Infrastructure funds and institutional investors with clean energy exposure,"Portfolio / HoldCo Financing, NAV Facilities, Sustainability-Linked Loans, FX Hedging","EverGreen Capital, CleanFuture Fund"
+S4,EPC & Construction,Engineering procurement and construction contractors for energy projects,"Trade Finance, Performance Bonds, Working Capital Facilities","SolarBridge EPC"
+S5,Technology & Storage,OEMs and technology providers for energy storage and smart grid,"Supply Chain Finance, Equipment Financing, R&D Lending","NovaSpark Battery"
+S6,O&M & Services,Operations and maintenance service providers for energy assets,"Working Capital, Asset-Backed Lending"
+S7,Offtaker & Corporate,Corporates procuring renewable energy via PPAs or direct investment,"Green Bonds, Sustainability-Linked Bonds, PPA Advisory"
+S8,Government & Regulator,Public sector bodies setting policy and funding clean energy transition,"Export Finance, Public Sector Advisory, Green Sovereign Bonds"

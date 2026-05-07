@@ -1,0 +1,8 @@
+Relationship_ID,Entity_A_ID,Entity_A_Name,Relationship_Type,Entity_B_ID,Entity_B_Name,Strength,Contract_Type,Start_Date,Notes
+R001,E001,GreenPeak Renewables,PPA / Offtake Agreement,E002,SunGrid Utilities,High,Long-term PPA (20yr),2021-06-01,Solar asset offtake; predictable long-dated cashflows; non-recourse finance eligible
+R002,E003,EverGreen Capital,Equity Investment,E001,GreenPeak Renewables,High,Direct Equity Stake,2020-03-15,EverGreen holds 35% equity in GreenPeak; infrastructure fund exposure
+R003,E003,EverGreen Capital,Co-Investment,E004,CleanFuture Fund,Medium,Co-Investment Agreement,2022-09-01,Joint investment in two APAC solar assets; portfolio-level financing opportunity
+R004,E001,GreenPeak Renewables,EPC Contract,E006,SolarBridge EPC,Medium,Fixed-Price EPC,2023-01-10,SolarBridge contracted for 150MW solar build in Vietnam
+R005,E005,BlueHorizon Wind,Grid Connection,E007,GridLink Transmission,Low,MOU,2023-07-01,Early-stage MOU for offshore wind grid connection in Philippines
+R006,E001,GreenPeak Renewables,Technology Supply,E008,NovaSpark Battery,Medium,Supply MOU,2023-11-01,Battery co-location being scoped for existing solar assets
+R007,E004,CleanFuture Fund,Fund Investment,E005,BlueHorizon Wind,Low,Equity (Seed),2023-04-20,Seed equity position in BlueHorizon; early-stage; speculative
