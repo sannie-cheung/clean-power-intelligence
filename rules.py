@@ -197,10 +197,10 @@ def run_simulation(prompt, files):
     """Orchestrates the processing steps with realistic delays."""
     steps = [
         (0.8, "Parsing entity and relationship structures..."),
-        (0.8, "Identifying cross-segment relationships..."),
-        (0.6, "Applying opportunity surfacing rules..."),
-        (0.6, "Validating findings against ingested data..."),
-        (0.8, "Generating output..."),
+        (1.0, "Opportunity Agent: Identifying cross-segment relationships..."),
+        (1.2, "Opportunity Agent: Applying opportunity surfacing rules..."),
+        (0.5, "Valadation Agent: Validating findings against ingested data..."),
+        (1.5, "Generating output..."),
     ]
     for delay, msg in steps:
         time.sleep(delay)
